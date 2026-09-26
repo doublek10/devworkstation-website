@@ -34,7 +34,7 @@ export default function Footer() {
       </div>
 
       <div className="mx-auto mt-10 max-w-6xl border-t border-line pt-6">
-        <p className="font-mono text-[11.5px] text-muted">© {year} DevWorkstation. All rights reserved.</p>
+        <p className="font-mono text-[11.5px] text-muted">© {year} DevWorkstation. All rights reserved by Wonder Wallet.</p>
       </div>
     </footer>
   );
